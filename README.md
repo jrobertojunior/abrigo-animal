@@ -12,6 +12,6 @@ Projetinho feito pra cadeira de _introdução a multimídia 2021.2_ utilizando a
 
 **Produção**: Gabi
 
-**Ajustes** finais: Gabi e Zé
+**Ajustes finais**: Gabi e Zé
 
 2022.
